@@ -1,0 +1,40 @@
+h4{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+}
+
+#box{
+    max-width: 500px;
+    margin:0 auto;
+    margin-top: 100px;
+    padding:30px;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 1px 3px 0 #dce0e6;
+    border-radius: 4px;
+    border: 1px solid transparent;
+}
+
+.myButton {
+    background-color:#72cca7;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:17px;
+    padding:10px;
+    width:100%;
+    border-radius: 0;
+    text-decoration:none;
+    text-align: center;
+    transition: .3s;
+}
+.myButton:hover {
+    opacity: .6;
+}
+
+#succes-icon{
+    width: 100px;
+
+}
